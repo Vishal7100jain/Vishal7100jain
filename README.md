@@ -1,4 +1,4 @@
-![MasterHead](https://techbullion.com/wp-content/uploads/2023/05/2c088aa3-6861-4a87-aa0b-aa12d84c0299.png)
+
 <h1 align="center">Hi 👋, I'm Vishal jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
