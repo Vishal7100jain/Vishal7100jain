@@ -5,7 +5,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal7100jain&label=Profile%20views&color=0e75b6&style=flat" alt="vishal7100jain" /> </p>
 
-- 🔭 I’m currently working on [Live Currency App](https://github.com/Vishal7100jain/LiveCurrencyUpdate)
+- 🔭 I’m currently working on Backend Development
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishal7100jain](https://github.com/Vishal7100jain)
 
-- 💬 Ask me about **JavaScript , CSS and BootStrap**
+- 💬 Ask me about **JAVASCRIPT, NODE.JS, EXPRESS.JS, EJS, CSS3, HTML5 **
 
 - 📫 How to reach me **vishaljain7100@gmail.com**
 
