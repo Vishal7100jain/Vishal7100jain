@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Backend Development
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Full Stack Development Projects**
 
 - 🤝 I’m looking for help with **Backend Development**
 
