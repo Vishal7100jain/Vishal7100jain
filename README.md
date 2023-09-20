@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Development Projects**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **AWS learing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishal7100jain](https://github.com/Vishal7100jain)
 
