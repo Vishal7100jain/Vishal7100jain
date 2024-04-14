@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishal7100jain](https://github.com/Vishal7100jain)
 
-- 💬 Ask me about **JAVASCRIPT, NODE.JS, EXPRESS.JS, MONGODB, MONGOOSE, MYSQL, EJS, CSS3, HTML5 **
+- 💬 Ask me about **JAVASCRIPT,REACT.JS, REDUX, REACT-NATIVE NODE.JS, EXPRESS.JS, MONGODB, MONGOOSE, MYSQL, EJS, CSS3, HTML5 **
 
 - 📫 How to reach me **vishaljain7100@gmail.com**
 
